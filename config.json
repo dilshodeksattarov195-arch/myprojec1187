@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervonnect",
+        "uuid": 1093227,
+        "checksum": "1sul9m"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
